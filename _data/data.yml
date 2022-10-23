@@ -29,9 +29,8 @@ profile:
   display: true
   title: Mon profil
   details: |
-    Voyageuse depuis l'age de 9 ans.
-    + Artistique
-    + Manuelle
+    Voyageuse depuis l'age de 9 ans, je suis une personne autonome, débrouillarde et créative. 
+    Je résouds les problèmes calmement en trouvant des solutions efficaces et satisfaisantes. 
 
 experiences:
   display: true
@@ -43,10 +42,11 @@ experiences:
       tag:
       location: Val-Bélair, QC
       details: |
-      Tâches: 
+        Tâches: 
         + Préparation de gâteaux
         + Emballage des produits
         + Service aux clients 
+     
 
 projects:
   display: false
@@ -83,9 +83,9 @@ education:
   display: true
   title: Éducation
   items:
-    - university: Secondaire 5
-      time: 2021 - 2022
-      major: En cours de validation
+    - university: Programme CNED (https://www.cned.fr/)
+      time: 2022
+      major: Equivalence secondaire 5 en cours de validation
       degree: 
       details: 
 
@@ -157,12 +157,10 @@ interests:
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Évaluation personelle
   details: |
-   Je suis une personne autonome, débrouillarde et calme.Je résouds les problèmes facilement en trouvant des solutions efficaces et satisfaisantes. 
-
-    ...
+   Je suis une personne autonome, débrouillarde et calme. Je résouds les problèmes facilement en trouvant des solutions efficaces et satisfaisantes. 
 
 footer:
   display: true

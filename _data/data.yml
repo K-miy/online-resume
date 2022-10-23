@@ -83,7 +83,8 @@ education:
   display: true
   title: Éducation
   items:
-    - university: Programme [CNED](https://www.cned.fr/)
+    - university: Programme CNED 
+      link: https://www.cned.fr
       time: 2022
       major: Equivalence secondaire 5 en cours de validation
       degree: 

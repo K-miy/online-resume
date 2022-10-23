@@ -83,13 +83,12 @@ education:
   display: true
   title: Éducation
   items:
-    - university: Programme CNED 
-      link: https://www.cned.fr
+    - university: Programme CNED (https://www.cned.fr)
       time: 2022
       major: Equivalence secondaire 5 en cours de validation
       degree: 
       details: |
-      Programme d`école à distance réalisé lors des pérégrinations familiales équivalent au parcours secondaire complet de France. 
+      Programme d école à distance réalisé lors des pérégrinations familiales équivalent au parcours secondaire complet de France. 
       Reconnaissance du secondaire 5 en cours pour pouvoir entrer au cegep en design industriel.
 
 certificates:

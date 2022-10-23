@@ -6,9 +6,9 @@ basic:
     path: profile.png
 
 contact:
-  location:
-  email: hanae@cbesse.net
-  phone: +1 418 666 6666
+  location: 2829, rue Montreuil, G1V2E4
+  email: hanae.bouquand@gmail.com 
+  phone: +1(581)578-4548
   website: cbesse.net/online-resume
   wechat:
   whatsapp:
@@ -29,11 +29,9 @@ profile:
   display: true
   title: Mon profil
   details: |
-    Globe trotter depuis l'age de 8 ans.  ...
-    + Bla
-    + Bla bla
-
-    ...
+    Voyageuse depuis l'age de 9 ans.
+    + Artistique
+    + Manuelle
 
 experiences:
   display: true
@@ -45,9 +43,10 @@ experiences:
       tag:
       location: Val-Bélair, QC
       details: |
-        Experience in this company:
-        + First
-        + Second
+      Tâches: 
+        + Préparation de gâteaux
+        + Emballage des produits
+        + Service aux clients 
 
 projects:
   display: false
@@ -68,47 +67,33 @@ projects:
 
 skills:
   display: true
-  title: Skills
+  title: Compétences
   details: |
-    Here is my skills:
-    + First
-    + Second
-
-    ...
-
+   
+   
   levels:
-    - name: Skill A
+    - name: Dessin
       level: 90
-    - name: Skill B
+    - name: Couture
       level: 80
-    - name: Skill C
+    - name: Écriture
       level: 70
 
 education:
   display: true
-  title: Education
+  title: Éducation
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
+    - university: Secondaire 5
+      time: 2021 - 2022
+      major: En cours de validation
+      degree: 
+      details: 
 
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
+    - university:
+      time: 
+      major: 
+      degree:
+      details:
 
 certificates:
   display: false
@@ -151,29 +136,31 @@ patents:
 
 languages:
   display: true
-  title: Languages
+  title: Langues 
   items:
-    - idiom: Chinese
-      level: Native
-    - idiom: English
-      level: Professional
+    - idiom: Francais
+      level: Natif
+    - idiom: Anglais
+      level: Expert
+    - idiom: Espagnol
+      level: Intermédiaire
 
 interests:
   display: true
-  title: Interests
+  title: Intérêts
   items:
-    - item: Reading
+    - item: Lecture
       link:
-    - item: Cooking
+    - item: Crochet
+      link:
+    - item: Pâtisserie
       link:
 
 evaluation:
-  display: false
-  title: Self-evaluation
+  display: true
+  title: Évaluation personelle
   details: |
-    Here is my self evaluation.
-    + First
-    + Second
+   Je suis une personne autonome, débrouillarde et calme.Je résouds les problèmes facilement en trouvant des solutions efficaces et satisfaisantes. 
 
     ...
 
@@ -181,4 +168,4 @@ footer:
   display: true
 
 close: >
-  Sorry, my resume has been hidden.
+  

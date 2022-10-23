@@ -1,70 +1,56 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Hanaé Bouquand
+  title: Étudiante
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
   location:
-  email: me@example.com
-  phone: +86-111-2222-3333
-  website: example.com
+  email: hanae@cbesse.net
+  phone: +1 418 666 6666
+  website: cbesse.net/online-resume
   wechat:
   whatsapp:
   telegram:
-  github: github
+  github:
   gitlab:
   bitbucket:
   googlescholar:
   researchgate:
   linkedin:
   medium:
-  twitter: twitter
+  twitter:
   stackoverflow:
   quora:
   goodreads:
 
 profile:
   display: true
-  title: Profile
+  title: Mon profil
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
+    Globe trotter depuis l'age de 8 ans.  ...
+    + Bla
+    + Bla bla
 
     ...
 
 experiences:
   display: true
-  title: Experiences
+  title: Expériences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Commis de Boulangerie
+      time: 2022.08 - 2022.10
+      company: Coopératives des consommateurs de Lorette, Convivio / IGA
       tag:
-      location: Beijing
+      location: Val-Bélair, QC
       details: |
         Experience in this company:
         + First
         + Second
-
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
-      details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
 
 projects:
-  display: true
+  display: false
   title: Projects
   intro: |
     This is all the projects I'm involved in.
@@ -125,7 +111,7 @@ education:
         ...
 
 certificates:
-  display: true
+  display: false
   title: Certificates
   items:
     - name: Course Foo
@@ -141,7 +127,7 @@ certificates:
       details: |
 
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
     This is all the books I wrote.
@@ -157,7 +143,7 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
@@ -182,7 +168,7 @@ interests:
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
